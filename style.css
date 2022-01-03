@@ -1,3 +1,10 @@
 body{
     background-color: blue;
 }
+p{
+    font-weight: bold;
+    color: blueviolet;
+    font-size: 34px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: right;
+}
